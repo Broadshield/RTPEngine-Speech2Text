@@ -7,8 +7,8 @@
     "name": "Lorenzo Mangani"
   },
   "dependencies": {
-    "chokidar": "*",
-    "ms-bing-speech-service": "3.3.0",
-    "hep-js" : "*"
+    "chokidar": "3.3.1",
+    "ms-bing-speech-service": "2.0.6",
+    "hep-js" : "1.0.20"
   }
 }
